@@ -11,7 +11,7 @@ public class hashmap {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub 
 		HashMap hm = new HashMap(); 
-		hm.put("srinath", 100);
+		hm.put("srinath dhamu", 100);
 		hm.put("harish", 101);
 		hm.put("kalyan",102);
 		System.out.println(hm); 
